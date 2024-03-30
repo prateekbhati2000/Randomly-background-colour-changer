@@ -1,0 +1,19 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    background-color: rgb(46, 43, 43);
+    color: white ;
+}
+
+#heading{
+    margin: 15px;
+}
+#start{
+    margin: 15px;
+}
+#stop{
+    margin: 15px;
+}
